@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="img.gif">
+<img src="img.gif" alt="👍">
